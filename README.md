@@ -1,5 +1,5 @@
 # Student-Enroll-Tracker
-C# Desktop application to enter students details and with various other visualization and storage  features. 
+C# Desktop application to enter students details and with various other visualization and storage  features. 3rd year 1st cw for Application Developemnt
 
 
 ## Student Enroller application
